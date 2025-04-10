@@ -4,4 +4,8 @@ numpy
 scikit-learn
 plotly
 seaborn
+<<<<<<< HEAD
 matplotlib
+=======
+matplotlib
+>>>>>>> 5cf76a0 (Commit inicial)
