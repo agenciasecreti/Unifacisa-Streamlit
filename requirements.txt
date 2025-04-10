@@ -1,0 +1,7 @@
+stramlit
+pandas
+numpy
+plotly
+statsmodels
+pmdarima
+prophet
