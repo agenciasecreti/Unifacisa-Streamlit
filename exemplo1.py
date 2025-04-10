@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, classification_report # para avaliar
 import pandas as pd # para manipulação de dados
 
 # Criando objetos que vão aparecer na tela do sistema
-st.title("Sistema de Classificação de Flores Iris")
+st.title("Sistema de Classificação de Flores Iris!")
 
 # Carregando a base de dados para um dataframe e separando as features de seleção e classificação
 iris = load_iris()
