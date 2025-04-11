@@ -27,3 +27,6 @@ pip install -r requirements.txt
 │   │   ├── app_saude.py
 ├── .gitignore
 ```
+
+# Projeto rodando no online no Streamlit
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agenciaapp.streamlit.app/)
