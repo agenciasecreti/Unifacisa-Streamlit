@@ -9,6 +9,13 @@ streamlit run arquivo.py
 ```bash
 pip install -r requirements.txt
 ```
+ou
+```bash
+pip install streamlit
+pip install pandas
+```
+...
+
 # Estrutura do projeto
 ```bash
 ├── exemplo1.py
